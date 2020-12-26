@@ -1,0 +1,3 @@
+33800 solutions explored
+33800 solutions explored
+Time elapsed was 63060644957ns or 63.060644957s
